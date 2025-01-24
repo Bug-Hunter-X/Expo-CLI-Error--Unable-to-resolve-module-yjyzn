@@ -1,0 +1,1 @@
+This repository demonstrates a common error encountered when using the Expo CLI:  "Unable to resolve module..." This error frequently arises from problems with project setup, dependencies, or the Expo CLI environment. The `bug.js` file showcases the problematic code (a simplified example). The `bugSolution.js` provides a corrected version and potential solutions.
